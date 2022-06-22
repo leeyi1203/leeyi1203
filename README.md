@@ -1,4 +1,4 @@
-### 이봄이💟
+### iOS Developer 이봄이👩🏻‍💻🍎📱⌚️
 
 <!--
 **leeyi1203/leeyi1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyi1203&theme=material-palenight&show_icons=true)
+
+[![그래서 왜 iOS인데?](https://img.youtube.com/vi/tWTB3o6SQNM/0.jpg)](https://youtu.be/tWTB3o6SQNM)
