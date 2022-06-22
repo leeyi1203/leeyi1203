@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
 
 ###### 🤳🏻 Contact
-<a href="mailto:bomyee2@gmail.com"> <img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+<a href="mailto:bomyee2@gmail.com"> <img src="https://img.shields.io/badge/mail-7800BD?style=for-the-badge&logo=gmail&logoColor=white"> </a>
 <a href="https://velog.io/@leeyi1203" target="_blank"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 <a href="https://www.instagram.com/th1s.spring/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
